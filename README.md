@@ -7,5 +7,6 @@
 3. Activate the environment with this command: `conda activate environment.yml`
 4. Install Jupyter using this command: `conda install jupyter` Proceed with installing packages if asked.
 5. Unzip the code and pickle file using this command: `unzip Code\ and\ pickle.zip`
-6. Apply the command: `jupyter notebook`
-7. A localhost page should automatically open with all the files in the repo. Select "Practicum Code.ipynb" to get to the jupyter notebook.
+6. The code file "Practicum Code.ipynb" should now be present in the repo. For the pickle file, since a copy was already in the repo, feel free to rename/replace with the one in the zip file.
+7. Apply the command: `jupyter notebook`
+8. A localhost page should automatically open with all the files in the repo. Select "Practicum Code.ipynb" to get to the jupyter notebook.
