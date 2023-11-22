@@ -1,6 +1,7 @@
 # Fall 2023 Practicum
 
-## Project Setup Instructions (based on Mac OS - please slack @Deborah Chang if you have any issues opening the code file):
+## Project Setup Instructions 
+#### Based on Mac OS - please slack @Deborah Chang if you have any issues opening the code file
 
 1. Clone this repository using this command `git clone https://github.com/d8chang/fa23-practicum` in the Terminal.
 2. Within the repository directory, unzip package.zip using this command: `unzip package.zip`
