@@ -18,4 +18,4 @@ Steps:
 7. Apply the command: `jupyter notebook`
 8. A localhost page should automatically open with all the files in the repo. Select "Practicum Code.ipynb" to get to the jupyter notebook.
 
-Note: If the commands for setting up the environment or jupyter, try adding "sudo" in front of the command. See [this article](https://docs.conda.io/projects/conda/en/4.6.0/user-guide/tasks/manage-environments.html#activating-an-environment) for reference.
+Note: If the commands for setting up the environment or jupyter does not work, try adding "sudo" in front of the command. See [this article](https://docs.conda.io/projects/conda/en/4.6.0/user-guide/tasks/manage-environments.html#activating-an-environment) for reference.
