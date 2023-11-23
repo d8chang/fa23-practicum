@@ -1,12 +1,12 @@
 # Fall 2023 Practicum
 
 ## Project Setup Instructions 
-#### 
-This is based on MacOS. See respective links below for downloading git and conda. Please Slack @Deborah Chang if you have any issues with opening the code file.
 
-Git: https://macpaw.com/how-to/install-git-mac#:~:text=Before%20you%20install%20Git%20from,Press%20Return.
+##### This is based on MacOS. See respective links below for downloading git and conda. Please Slack @Deborah Chang if you have any ##### issues with opening the code file.
+##### Git: https://macpaw.com/how-to/install-git-mac#:~:text=Before%20you%20install%20Git%20from,Press%20Return.
+##### Conda: https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
 
-Conda: https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
+Steps:
 
 1. Clone this repository using this command `git clone https://github.com/d8chang/fa23-practicum` in the Terminal.
 2. Within the repository directory, unzip package.zip using this command: `unzip package.zip`
