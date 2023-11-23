@@ -4,7 +4,7 @@
 
 ##### This is based on MacOS. See respective links below for downloading git and conda. Please Slack @Deborah Chang if you have any issues with opening the code file.
 ##### Git: https://macpaw.com/how-to/install-git-mac#:~:text=Before%20you%20install%20Git%20from,Press%20Return.
-##### Conda: https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html or https://www.anaconda.com/download
+##### Installing Conda: https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html or https://www.anaconda.com/download
 ##### Jupyter: https://anaconda.org/anaconda/jupyter
 
 Steps:
@@ -17,3 +17,5 @@ Steps:
 6. Install Jupyter using this command: `conda install jupyter` Proceed with installing packages if asked.
 7. Apply the command: `jupyter notebook`
 8. A localhost page should automatically open with all the files in the repo. Select "Practicum Code.ipynb" to get to the jupyter notebook.
+
+Note: If the commands for setting up the environment or jupyter, try adding "sudo" in front of the command. See [this article](https://docs.conda.io/projects/conda/en/4.6.0/user-guide/tasks/manage-environments.html#activating-an-environment) for reference.
