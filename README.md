@@ -4,7 +4,8 @@
 
 ##### This is based on MacOS. See respective links below for downloading git and conda. Please Slack @Deborah Chang if you have any issues with opening the code file.
 ##### Git: https://macpaw.com/how-to/install-git-mac#:~:text=Before%20you%20install%20Git%20from,Press%20Return.
-##### Conda: https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html
+##### Conda: https://docs.conda.io/projects/conda/en/latest/user-guide/install/macos.html or https://www.anaconda.com/download
+##### Jupyter: https://anaconda.org/anaconda/jupyter
 
 Steps:
 
